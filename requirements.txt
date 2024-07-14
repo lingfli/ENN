@@ -1,0 +1,10 @@
+fonttools==4.25.0
+mkl-service==2.4.0
+munkres==1.1.4
+ply==3.11
+PyQt5==5.15.10
+scipy==1.11.4
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+
