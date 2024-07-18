@@ -15,3 +15,6 @@ Examples of ENN training sets.
 
 ## data
 The raw data is processed to obtain the data used for actual training and testing.
+
+## requirements
+The environment used by this code.
